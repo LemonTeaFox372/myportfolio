@@ -337,6 +337,14 @@ img {
         background-position-x: -100px;
         border-width: 10px;
     }
+    
+    .project-image {
+        margin-right: 33px;
+    }
+
+    .contacts-form {
+        margin-right: 33px;
+    }
 }
 
 @media (max-width: 836px) {
